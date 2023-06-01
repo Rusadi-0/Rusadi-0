@@ -7,6 +7,6 @@
 	- Database management (SQL)
 	- Version control (Git, GitHub)
 - 🌱 I'm always eager to learn and stay up-to-date with the ever-evolving tech landscape. Currently, I'm diving deeper into the world of React and Node.js.
-- 📫 Let's connect! You can find me on LinkedIn https://www.linkedin.com/mwlite/in/hadi-rusadi-479073209. Feel free to explore my projects on GitHub and don't hesitate to reach out if you have any interesting collaborations or projects in mind.
+- 📫 Let's connect! You can find me on LinkedIn https://bit.ly/45HwTHH. Feel free to explore my projects on GitHub and don't hesitate to reach out if you have any interesting collaborations or projects in mind.
 - 🌐 Check out my portfolio website: https://bit.ly/42hsPLx
 Happy coding! 😄
